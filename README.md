@@ -5,12 +5,12 @@ SVM bekerja dengan mengolah data untuk menghasilkan hyperplane dengan memisahkan
 
 ---
 
-* **File Pendukung**
- *1. MindMap - SVM: [Mind Map]()
- *2. Video Presentasi - SVM: [Video]()
- *3. Kuis - SVM:[Kuis]()
- *4. Power Point:
-  *[Teori]()
+* **File Pendukung**<br>
+ *1. MindMap - SVM: [Mind Map]()<br>
+ *2. Video Presentasi - SVM: [Video]()<br>
+ *3. Kuis - SVM:[Kuis]()<br>
+ *4. Power Point:<br>
+  *[Teori]()<br>
   *[Studi Kasus]()
 
 ---
