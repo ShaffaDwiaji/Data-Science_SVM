@@ -11,7 +11,7 @@ SVM bekerja dengan mengolah data untuk menghasilkan hyperplane dengan memisahkan
 	* Video Presentasi - SVM: [Video](https://drive.google.com/file/d/1vftUjrEBSW7xopKPoIPWEbA2rNTapuNg/view?usp=drive_link)<br>
 	* Kuis - SVM: [Kuis](Files/SVM_Quiz_by_NotebookLM.docx)<br>
 	* Power Point:<br>
-	  * [Teori](Files/(TEORI)SVM_Kelompok_3.pdf)<br>
+	  * [Teori](Files/(TEORI)_SVM_Kelompok_3.pdf)<br>
 		* [Studi Kasus](Files/(KASUS)SVM-Kelompok_3.pdf)
 
 
