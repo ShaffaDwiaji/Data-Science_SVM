@@ -6,16 +6,16 @@ SVM bekerja dengan mengolah data untuk menghasilkan hyperplane dengan memisahkan
 ---
 
 * **File Pendukung**<br>
- *1. MindMap - SVM: [Mind Map]()<br>
- *2. Video Presentasi - SVM: [Video]()<br>
- *3. Kuis - SVM:[Kuis]()<br>
- *4. Power Point:<br>
-  *[Teori]()<br>
-  *[Studi Kasus]()
+ * 1. MindMap - SVM: [Mind Map]()<br>
+ * 2. Video Presentasi - SVM: [Video]()<br>
+ * 3. Kuis - SVM:[Kuis]()<br>
+ * 4. Power Point:<br>
+  * [Teori]()<br>
+  * [Studi Kasus]()
 
 ---
 
-**Anggota**
-1. Arya Yudha Prasetya: [GitHub](https://github.com/AryaYudhaP)
-2. Richo Novian Saputra: [GitHub](https://github.com/richonovians)
-3. Shaffa Dwiaji Feryansyah Putra: [GitHub](https://github.com/ShaffaDwiaji)
+* **Anggota**
+ 1. Arya Yudha Prasetya: [GitHub](https://github.com/AryaYudhaP)
+ 2. Richo Novian Saputra: [GitHub](https://github.com/richonovians)
+ 3. Shaffa Dwiaji Feryansyah Putra: [GitHub](https://github.com/ShaffaDwiaji)
