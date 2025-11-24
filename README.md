@@ -16,6 +16,6 @@ SVM bekerja dengan mengolah data untuk menghasilkan hyperplane dengan memisahkan
 ---
 
 **Anggota**
-1. Arya Yudha Prasetya: [GitHub](AryaYudhaP)
-2. Richo Novian Saputra: [GitHub](richonovians)
+1. Arya Yudha Prasetya: [GitHub](github.com/AryaYudhaP)
+2. Richo Novian Saputra: [GitHub](github.com/richonovians)
 3. Shaffa Dwiaji Feryansyah Putra: [GitHub](github.com/ShaffaDwiaji)
