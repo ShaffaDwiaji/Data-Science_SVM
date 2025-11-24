@@ -7,12 +7,12 @@ SVM bekerja dengan mengolah data untuk menghasilkan hyperplane dengan memisahkan
 
 * **File Pendukung**<br>
 	* Source Code: [Kode SVM](Files/SVM.ipynb)
-	* MindMap - SVM: [Mind Map](Files/SVM Mind Map - Kelompok 3.png)<br>
+	* MindMap - SVM: [Mind Map](Files/SVM_MindMap-Kelompok_3.png)<br>
 	* Video Presentasi - SVM: [Video](https://drive.google.com/file/d/1vftUjrEBSW7xopKPoIPWEbA2rNTapuNg/view?usp=drive_link)<br>
-	* Kuis - SVM:[Kuis](Files/SVM Quiz by NotebookLM.docx)<br>
+	* Kuis - SVM:[Kuis](Files/SVM_Quiz_by_NotebookLM.docx)<br>
 	* Power Point:<br>
-	  * [Teori](Files/(TEORI) SVM - Kelompok 3.pdf)<br>
-		* [Studi Kasus](Files/(KASUS) SVM - Kelompok 3.pdf)
+	  * [Teori](Files/(TEORI)SVM-Kelompok_3.pdf)<br>
+		* [Studi Kasus](Files/(KASUS)SVM-Kelompok_3.pdf)
 
 
 * **Collaborators**
